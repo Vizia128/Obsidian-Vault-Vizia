@@ -1,6 +1,8 @@
 **Yonsei Signature:**
+-고서
 
 **Meaning**:
+<u>AVst</u>고서 \_\_\_\_
 
 **Grammar**:
 
@@ -9,9 +11,4 @@
 **Notes:**
 
 **Related Patterns:**
-
-<u>AVst</u>
-<u>DVst</u>
-<u>Vst</u>
-<u>N</u>
-\_\_\_\_
+[[V+고]], [[V+고 나서]]

@@ -1,3 +1,6 @@
+**Yonsei Signature:**
+-어야지요/아야지요/여야지요
+
 **Meaning**:
 should, ought to (casual agreement/acknowledgment)
 
@@ -12,4 +15,4 @@ More casual and conversational than -(어,아,여)야 하다/되다. Often expre
 **Notes:**
 
 **Related Patterns:**
-[[V+(어,아,여)]], [[V+(어,아,여)야]], [[V+지(요)]], [[V+(었,았,였)어(요)]]
+[[V+(어,아,여)]], [[V+(어,아,여)야]], [[V+지(요)]], [[V+(었,았,였)다]]

@@ -1,4 +1,5 @@
 **Yonsei Signature:**
+-는대요/ㄴ대요/대요
 
 **Meaning**:
 
@@ -9,9 +10,4 @@
 **Notes:**
 
 **Related Patterns:**
-
-<u>AVst</u>
-<u>DVst</u>
-<u>Vst</u>
-<u>N</u>
-\_\_\_\_
+[[V+(는,ㄴ,_)다고 하다]]

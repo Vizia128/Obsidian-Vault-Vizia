@@ -1,3 +1,6 @@
+**Yonsei Signature:**
+-었어요/았어요/였어요
+
 **Meaning**:
 Past tense
 

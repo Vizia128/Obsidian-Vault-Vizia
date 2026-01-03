@@ -4,45 +4,151 @@
     "type": "split",
     "children": [
       {
-        "id": "ac317d5f030752cc",
+        "id": "ce59a639c61b31fa",
         "type": "tabs",
         "children": [
           {
-            "id": "ccdb468cabbf6f3d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "5c2786d7d7f8a518",
+            "id": "abe4737800cfd844",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/V+(으)려던 참이었다.md",
+                "file": "문법/V+(어,아,여) 놓다.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "V+(으)려던 참이었다"
+              "title": "V+(어,아,여) 놓다"
             }
           },
           {
-            "id": "f73993e215fdeeec",
+            "id": "3b4f398c434ed286",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "문법/V+(는,ㄴ,_)대요.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V+(는,ㄴ,_)대요"
             }
           },
           {
-            "id": "8789ca1107260d96",
+            "id": "2b3d127b29cce6d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/V+(었,았,였)더니.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V+(었,았,였)더니"
+            }
+          },
+          {
+            "id": "010c7222721d583f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/V+(었,았,였)더니.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V+(었,았,였)더니"
+            }
+          },
+          {
+            "id": "5755b65616c7d3dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/V+잖아(요).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V+잖아(요)"
+            }
+          },
+          {
+            "id": "aedfb6c8cdfb0df2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/V+고 나서.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V+고 나서"
+            }
+          },
+          {
+            "id": "120310c4032e1979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/V+(는,ㄴ,_)다면서(요).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V+(는,ㄴ,_)다면서(요)"
+            }
+          },
+          {
+            "id": "04f7f3bdcdef477b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/V+(는,은,ㄴ)데도.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V+(는,은,ㄴ)데도"
+            }
+          },
+          {
+            "id": "dbd2a342679cd881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/V+기가 쉽다.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V+기가 쉽다"
+            }
+          },
+          {
+            "id": "e1efbd79137e7efc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "template"
+            }
+          },
+          {
+            "id": "dcf8669fd98bb397",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,69 +162,147 @@
             }
           },
           {
-            "id": "83501e153458c4ca",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "5aecc8e6a0e40474",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "32d281674c56dd76",
+            "id": "ed2334358f85df09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/V+(ㄹ,을)지 V+(ㄹ,을)지.md",
+                "file": "templates/template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "V+(ㄹ,을)지 V+(ㄹ,을)지"
+              "title": "template"
             }
           },
           {
-            "id": "5389f65c86f5685c",
+            "id": "eb71df48954ec7cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/V+(어,아,여) 있다.md",
+                "file": "문법/V+(었,았,였)을 것이다.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "V+(어,아,여) 있다"
+              "title": "V+(었,았,였)을 것이다"
             }
           },
           {
-            "id": "8ebd3aa48d56f05f",
+            "id": "581d35872a50ecb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문법/V+(ㄹ,을)지 V+(ㄹ,을)지.md",
+                "file": "문법/V+(는,ㄴ,_)대요.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "V+(ㄹ,을)지 V+(ㄹ,을)지"
+              "title": "V+(는,ㄴ,_)대요"
+            }
+          },
+          {
+            "id": "38fc0a6667de9e28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/V+는 대신에.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V+는 대신에"
+            }
+          },
+          {
+            "id": "296070638553a70b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/AV+게 하다.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AV+게 하다"
+            }
+          },
+          {
+            "id": "f23334a4e2bcaf0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "template"
+            }
+          },
+          {
+            "id": "3674b051e7f57c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/V+던데.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V+던데"
+            }
+          },
+          {
+            "id": "54007d14c1addabf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/V+고서.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V+고서"
+            }
+          },
+          {
+            "id": "6c4d207aed653536",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/V+(을,ㄹ) 뻔하다.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V+(을,ㄹ) 뻔하다"
+            }
+          },
+          {
+            "id": "9e9096aaa9d40fdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "문법/V+(으)니까2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "V+(으)니까2"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -175,7 +359,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 254.5
   },
   "right": {
     "id": "6e44d349b4f7e221",
@@ -265,35 +449,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "8ebd3aa48d56f05f",
+  "active": "f1e483a016462ba6",
   "lastOpenFiles": [
-    "문법/V+(는,은,ㄴ) 편이다.md",
-    "문법/V+(는,은,ㄴ).md",
-    "문법/V+(기는,긴) 하다.md",
-    "문법/N+뿐.md",
-    "문법/N+밖에.md",
-    "문법/N+만.md",
-    "문법/N+(은,는).md",
-    "문법/V+(어,아,여) 놓다.md",
-    "문법/V+(어,아,여) 있다.md",
     "templates/template.md",
-    "문법/V+(ㄹ,을)지 V+(ㄹ,을)지.md",
-    "문법/V+기만 하다.md",
-    "문법/V+기는(요).md",
-    "문법/V+기 위해서.md",
-    "문법/V+기.md",
-    "문법/V+(을,ㄹ) 뿐이다.md",
-    "문법/V+(을,ㄹ).md",
-    "문법/V+(은,ㄴ).md",
-    "문법/V+(으)려던 참이었다.md",
-    "문법/V+(었,았,였)어(요).md",
+    "문법/V+(으)니까2.md",
+    "문법/V+(을,ㄹ) 뻔하다.md",
+    "문법/V+고서.md",
+    "문법/V+던데.md",
+    "문법/V+(으)면서도.md",
+    "문법/AV+게 하다.md",
+    "문법/V+는 대신에.md",
+    "문법/V+(는,ㄴ,_)대요.md",
+    "문법/V+(는,ㄴ,_)다면서(요).md",
+    "문법/V+(는,ㄴ,_)다면.md",
+    "문법/V+(는,ㄴ,_)다고 생각하다.md",
+    "문법/V+(었,았,였)을 것이다.md",
+    "V+(는,ㄴ,_)다고 asdf.md",
+    "문법/V+(어,아,여)서 그런지.md",
+    "문법/V+(는,은,ㄴ)데도.md",
+    "문법/V+(나,은가,ㄴ가) 보다.md",
+    "문법/V+(이)라든가.md",
     "문법/V+(어,아,여)야지(요).md",
-    "문법/V+(어,아,여) 보이다.md",
+    "문법/V+(으)려면2.md",
+    "문법/V+(는,은,ㄴ) 편이다.md",
+    "문법/V+(을,ㄹ)지도 모르다.md",
+    "문법/V+기가 쉽다.md",
+    "문법/V+(었,았,였)더니.md",
+    "문법/V+기 위해서.md",
+    "문법/V+고 나서.md",
+    "uv.lock",
+    "pyproject.toml",
+    "main.py",
+    "combine_grammar.py",
     "Untitled",
-    "-(는,은,ㄴ) 편이다.md",
-    "-(을,ㄹ) 뿐이다.md",
-    "-(는,ㄴ,_)다면.md",
-    "-(는,ㄴ,_)다고 하다.md",
     "templates",
     "문법"
   ]

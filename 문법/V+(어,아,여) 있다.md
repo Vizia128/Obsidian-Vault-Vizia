@@ -1,3 +1,6 @@
+**Yonsei Signature:**
+-어/아/여 있다
+
 **Meaning**:
 Continuing or resultant state
 

@@ -2,7 +2,7 @@
 Noun modifiers, past
 
 **Grammar**:
-<u>Vst</u>(은,ㄴ)
+<u>Vst</u>(은,ㄴ) \_\_\_\_
 
 **Usage**:
 Enables it to function as a modifying clause for the substantive following it.

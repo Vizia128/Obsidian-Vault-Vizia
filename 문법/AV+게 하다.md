@@ -1,17 +1,15 @@
 **Yonsei Signature:**
+-게 하다
 
 **Meaning**:
 
 **Grammar**:
+<u>AVst</u>게 하다
+<u>AVst</u>게 했다
 
 **Usage**:
 
 **Notes:**
 
 **Related Patterns:**
-
-<u>AVst</u>
-<u>DVst</u>
-<u>Vst</u>
-<u>N</u>
-\_\_\_\_
+[[V+(었,았,였)다]]

@@ -1,3 +1,6 @@
+**Yonsei Signature:**
+-을/ㄹ 뿐이다
+
 **Meaning**:
 Only, just, nothing but
 
@@ -12,4 +15,4 @@ Emphasizes limitation or exclusivity - "this and nothing more." Can express eith
 **Notes:**
 
 **Related Patterns:**
-[[V+(을,ㄹ)]], [[N+뿐]], [[V+(었,았,였)어(요)]]
+[[V+(을,ㄹ)]], [[N+뿐]], [[V+(었,았,였)다]]

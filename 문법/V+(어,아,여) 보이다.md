@@ -1,3 +1,6 @@
+**Yonsei Signature:**
+-어/아/여 보이다
+
 **Meaning**:
 looks like, appears to be
 
@@ -12,4 +15,4 @@ Expresses visual appearance or impression based on what the speaker sees. The ob
 - Subject is usually third person
 
 **Related Patterns:**
-[[V+(어,아,여)]], [[V+(었,았,였)어(요)]]
+[[V+(어,아,여)]], [[V+(었,았,였)다]]

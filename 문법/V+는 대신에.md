@@ -1,17 +1,14 @@
 **Yonsei Signature:**
+-는 대신에
 
 **Meaning**:
 
 **Grammar**:
+<u>AVst</u>는 대신에 \_\_\_\_
 
 **Usage**:
 
 **Notes:**
 
 **Related Patterns:**
-
-<u>AVst</u>
-<u>DVst</u>
-<u>Vst</u>
-<u>N</u>
-\_\_\_\_
+[[V+(는,은,ㄴ)]]

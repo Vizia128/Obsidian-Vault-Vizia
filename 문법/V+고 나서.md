@@ -1,17 +1,14 @@
 **Yonsei Signature:**
+-고 나서
 
 **Meaning**:
 
 **Grammar**:
 
 **Usage**:
+<u>AVst</u>고 나서 \_\_\_\_
 
 **Notes:**
 
 **Related Patterns:**
-
-<u>AVst</u>
-<u>DVst</u>
-<u>Vst</u>
-<u>N</u>
-\_\_\_\_
+[[V+고]], [[V+고서]], [[V+(어,아,여)서]]

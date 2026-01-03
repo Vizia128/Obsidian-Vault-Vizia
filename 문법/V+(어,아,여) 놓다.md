@@ -1,8 +1,11 @@
+**Yonsei Signature:**
+-어/아/여 놓다
+
 **Meaning**:
 do and leave (in that state), do in advance (for later use)
 
 **Grammar**:
-<u>AVst</u>(어,아,여) 놓다.
+<u>N</u>(을,를) <u>AVst</u>(어,아,여) 놓다.
 
 **Usage**:
 Emphasizes preparation, completion, or the resulting state being maintained. Implies the result is useful or intentional for future reference.

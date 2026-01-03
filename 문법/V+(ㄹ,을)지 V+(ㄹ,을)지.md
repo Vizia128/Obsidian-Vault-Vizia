@@ -1,3 +1,6 @@
+**Yonsei Signature:**
+-ㄹ지/을지 -ㄹ지/을지
+
 **Meaning**:
 whether to... or to... (deliberation between options)
 

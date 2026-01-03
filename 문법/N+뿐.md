@@ -1,3 +1,6 @@
+**Yonsei Signature:**
+-뿐
+
 **Meaning**:
 Nothing more, there is nothing else, it is the only one.
 

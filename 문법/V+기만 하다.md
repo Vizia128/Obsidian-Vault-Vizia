@@ -1,3 +1,6 @@
+**Yonsei Signature:**
+-기만 하다
+
 **Meaning**:
 only do, just do, do nothing but
 
@@ -11,4 +14,4 @@ Emphasizes exclusivity - this action/state and nothing else. Often has a negativ
 **Notes:**
 
 **Related Patterns:**
-[[V+기]], [[N+만]], [[V+(었,았,였)어(요)]]
+[[V+기]], [[N+만]], [[V+(었,았,였)다]]

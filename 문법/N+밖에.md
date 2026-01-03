@@ -1,3 +1,6 @@
+**Yonsei Signature:**
+-밖에
+
 **Meaning**:
 Exclusion, except for that, other than that
 

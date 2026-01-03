@@ -1,3 +1,6 @@
+**Yonsei Signature:**
+-는/은/ㄴ 편이다
+
 **Meaning**:
 tend to, on the {adjective} side, rather, fairly
 

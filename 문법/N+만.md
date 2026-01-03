@@ -1,3 +1,6 @@
+**Yonsei Signature:**
+-만
+
 **Meaning**:
 Limitation, only, but only
 

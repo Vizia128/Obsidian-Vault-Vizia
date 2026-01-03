@@ -11,4 +11,4 @@ Convert the preceding word as a noun.
 **Notes:**
 
 **Related Patterns:**
-[[V+(었,았,였)어(요)]]
+[[V+(었,았,였)다]]

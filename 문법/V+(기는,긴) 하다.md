@@ -1,3 +1,6 @@
+**Yonsei Signature:**
+-기는 하다
+
 **Meaning**:
 Partial Acknowledgment
 

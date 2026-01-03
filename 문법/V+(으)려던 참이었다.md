@@ -1,3 +1,6 @@
+**Yonsei Signature:**
+으려던/려던 참이었다
+
 **Meaning**:
 was just about to (do something)
 
@@ -11,4 +14,4 @@ Expresses that you were on the verge of doing something (but haven't yet). Often
 - Subject must be capable of intention
 
 **Related Patterns:**
-[[V+(으)려]], [[V+던]], [[V+(었,았,였)어(요)]]
+[[V+(으)려]], [[V+던]], [[V+(었,았,였)다]]
