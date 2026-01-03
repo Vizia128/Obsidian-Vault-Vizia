@@ -451,6 +451,7 @@
   },
   "active": "f1e483a016462ba6",
   "lastOpenFiles": [
+    "combined_grammar_custom.md",
     "templates/template.md",
     "문법/V+(으)니까2.md",
     "문법/V+(을,ㄹ) 뻔하다.md",
@@ -476,7 +477,6 @@
     "문법/V+기가 쉽다.md",
     "문법/V+(었,았,였)더니.md",
     "문법/V+기 위해서.md",
-    "문법/V+고 나서.md",
     "uv.lock",
     "pyproject.toml",
     "main.py",
