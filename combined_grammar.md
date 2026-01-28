@@ -881,16 +881,21 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -는다는 것이
 
-**Meaning**:
+**Meaning:**
+I meant to... but (intention vs. result)
 
-**Grammar**:
-<u>AVst</u>(는,ㄴ)다는 것이 \_\_\_\_
+**Grammar:**
+<u>AVst</u>(는,ㄴ)다는 것이 \_\_\_\_ (result/mistake)
 
-**Usage**:
+**Usage:**
+Used when the speaker's original intention or plan resulted in a different (often negative or mistaken) outcome. The clause usually ends with a description of the mistake or unintended action.
 
 **Notes:**
+- Often contracted to -는다는 게 in spoken Korean.
+- Common ending verbs: 잊어버렸다 (forgot), 실수했다 (made a mistake), 잘못했다 (did wrong).
 
 **Related Patterns:**
+[[V+(으)려다가]], [[V+(는,ㄴ)다고 하다가]]
 
 ---
 
@@ -902,16 +907,21 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -고 말다
 
-**Meaning**:
+**Meaning:**
+Ended up doing, finally did (strong result)
 
-**Grammar**:
+**Grammar:**
 <u>Vst</u>고 말(었,았,였)다
 
-**Usage**:
+**Usage:**
+Expresses that an action reached an endpoint. It carries a nuance of either:
+1.  **Regret**: Something unplanned or undesirable happened (ended up doing...).
+2.  **Achievement**: Something difficult was finally accomplished after effort.
 
 **Notes:**
 
 **Related Patterns:**
+[[V+(어,아,여) 버리다]]
 
 ---
 
@@ -923,15 +933,22 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -거든요
 
-**Meaning**:
+**Meaning:**
+You see, it's because (providing information)
 
-**Grammar**:
+**Grammar:**
+<u>Vst</u>거든요.
+<u>N</u>(이)거든요.
 
-**Usage**:
+**Usage:**
+Used to provide a reason or background information that the listener likely does not know. It can respond to a question "Why?" or simply add explanation to a previous statement.
 
 **Notes:**
+- Intonation is key; rising intonation can imply you are waiting for the other person to respond.
+- Unlike -잖아요 (shared knowledge), this assumes new information.
 
 **Related Patterns:**
+[[V+잖아요]], [[V+(으)니까]]
 
 ---
 
@@ -943,15 +960,20 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -을까 봐
 
-**Meaning**:
+**Meaning:**
+For fear that, worried that
 
-**Grammar**:
+**Grammar:**
+<u>Vst</u>(을,ㄹ)까 봐 \_\_\_(worried/preventative action)\_\_\_
 
-**Usage**:
+**Usage:**
+Expresses concern that the action in the first clause might happen, so the speaker performs the action in the second clause (or feels an emotion) to prevent or address it.
 
 **Notes:**
+- Often followed by 걱정이다 (worried) or 조심했다 (was careful).
 
 **Related Patterns:**
+[[V+(을,ㄹ)까 싶다]], [[V+(을,ㄹ)지도 모르다]]
 
 ---
 
@@ -963,18 +985,21 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -는다고 하던데
 
-**Meaning**:
+**Meaning:**
+I heard that... (recalling hearsay to introduce topic)
 
-**Grammar**:
+**Grammar:**
 <u>AVst</u>(는,ㄴ)다고 하던데 \_\_\_\_
 <u>DVst</u>다고 하던데 \_\_\_\_
 <u>N</u>(이)라고 하던데 \_\_\_\_
 
-**Usage**:
+**Usage:**
+The speaker recalls something they heard from others to introduce a topic, ask a question, or confirm a fact. "I heard [fact], is that true?" or "I heard [fact], so let's do this."
 
 **Notes:**
 
 **Related Patterns:**
+[[V+던데]], [[V+(는,ㄴ,_)대요]]
 
 ---
 
@@ -986,16 +1011,20 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -는대로
 
-**Meaning**:
+**Meaning:**
+As soon as, immediately after
 
-**Grammar**:
-<u>AVst</u>는대로 \_\_\_\_
+**Grammar:**
+<u>AVst</u>는 대로 \_\_\_\_
 
-**Usage**:
+**Usage:**
+Indicates that the second action occurs immediately upon the completion of the first action.
 
 **Notes:**
+- Similar to -자마자 but often used in future/imperative contexts (e.g., "Call me as soon as you arrive").
 
 **Related Patterns:**
+[[V+자마자]]
 
 ---
 
@@ -1007,18 +1036,22 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -을 만하다
 
-**Meaning**:
+**Meaning:**
+Worth doing, doable, understandable
 
-**Grammar**:
+**Grammar:**
 <u>N</u>(은,는,이,가) <u>AVst</u>(을,ㄹ) 만하다
 
-**Usage**:
-- 초천
-- 그낭 그냥
+**Usage:**
+1.  **Recommendation:** The value is sufficient to justify the action (e.g., "This movie is worth watching").
+2.  **Possibility/Justification:** The situation is understandable or "just bearable."
 
 **Notes:**
+- Used for recommendations (추천).
+- Can imply something is "just okay" or bearable (그저 그렇다 / 참을 만하다).
 
 **Related Patterns:**
+[[V+(을,ㄹ) 수 있다]]
 
 ---
 
@@ -1030,20 +1063,23 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -을 뿐만 아니라
 
-**Meaning**:
+**Meaning:**
+Not only... but also
 
-**Grammar**:
+**Grammar:**
 <u>Vst</u>(을,ㄹ) 뿐만 아니라 <u>(N)</u>도 \_\_\_\_
 <u>Vst</u>(었,았,였)을 뿐만 아니라 <u>(N)</u>도 \_\_\_\_
 
-**Usage**:
+**Usage:**
+Used to add information. The first clause and second clause should be of the same "weight" or tone (both positive or both negative).
 
 **Notes:**
-- If there is a noun, you must use (N)도.
-- The left and right of the phrase are 비슷한 사이즈/도가든 느낌.
-- Often used like this: <u>Vst</u>(었,았,였)을 뿐만 아니라 <u>(N)</u>도 <u>Vst</u>(어,아,여)서 \_\_\_\_.
+- If there is a noun in the second clause, you must use (N)도.
+- The left and right of the phrase are 비슷한 사이즈/도가든 느낌 (similar nuance/direction).
+- Often used like this: <u>Vst</u>(었,았,였)을 뿐만 아니라 <u>(N)</u>도 <u>AVst</u>(어,아,여)서 \_\_\_\_.
 
 **Related Patterns:**
+[[V+(는,은,ㄴ) 데다가]]
 
 ---
 
@@ -1055,19 +1091,22 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -는단 말이에요?
 
-**Meaning**:
+**Meaning:**
+Are you saying that...? You mean...? (Reconfirmation)
 
-**Grammar**:
+**Grammar:**
 <u>AVst</u>(는,ㄴ)단 말이에요?
 <u>DVst</u>단 말이에요?
 <u>Vst</u>(었,았,였)단 말이에요?
 <u>N</u>(이)란 말이에요?
 
-**Usage**:
+**Usage:**
+Used to reconfirm what the other person said, often expressing surprise or disbelief. It asks for clarification by restating the heard information.
 
 **Notes:**
 
 **Related Patterns:**
+[[V+(는,ㄴ,_)다는 뜻이에요?]]
 
 ---
 
@@ -1079,18 +1118,21 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -어다가
 
-**Meaning**:
+**Meaning:**
+(Do A) and then (use result for B)
 
-**Grammar**:
+**Grammar:**
 <u>N</u>(을,를) <u>AVst1</u>(어,아,여)다가 <u>AV2</u>
 
-**Usage**:
+**Usage:**
+Indicates an action is performed on an object, and then that object is moved or used in a subsequent action (e.g., cooking food and then packing it).
 
 **Notes:**
-- <u>N</u>은 눈에 보이는 물곤만 써야 됀다.
-- `다가`에 `가다`랑 `오다`가 이미 있어서 <u>AVst</u>로 쓰지 말다.
+- <u>N</u>은 눈에 보이는 물건만 써야 된다 (N must be a tangible/visible object).
+- `다가`에 `가다`랑 `오다`가 이미 있어서 <u>AVst</u>로 쓰지 말다 (Do not use with 가다/오다 as the first verb, as they have their own -다가 forms).
 
 **Related Patterns:**
+[[V+(어,아,여)서]]
 
 ---
 
@@ -1102,18 +1144,22 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -곤 하다
 
-**Meaning**:
+**Meaning:**
+Often do, strictly habitually do
 
-**Grammar**:
+**Grammar:**
 ~에,~때 <u>AVst</u>곤 하다
 ~에,~때 <u>AVst</u>곤 했다
 
-**Usage**:
+**Usage:**
+Expresses a habit or something that is done repeatedly.
 
 **Notes:**
-- 자주 하는 행동. `자주` 쓰지 마.
+- 자주 하는 행동 (Action done often).
+- `자주` 쓰지 마 (Do not need to use the word "jaju" explicitly as the grammar implies it).
 
 **Related Patterns:**
+[[V+기 일쑤이다]]
 
 ---
 
@@ -1125,20 +1171,23 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -는 사이에
 
-**Meaning**:
+**Meaning:**
+While, during the time that
 
-**Grammar**:
-<u>AVst</u>는 사이에 \_\_\_\_
-<u>AVst</u>(은,ㄴ) 사이에 \_\_\_\_
+**Grammar:**
+<u>AVst</u>는 사이에 \_\_\_\_ (Present action)
+<u>AVst</u>(은,ㄴ) 사이에 \_\_\_\_ (State/Result)
 
-**Usage**:
+**Usage:**
+Indicates that a second action happens within the duration of the first action or state.
 
 **Notes:**
-- The first half is usually first person.
-- The second half is always a different subject to the first.
-- 보동 잛은 시간
+- The first half is usually first person (context dependent, but often implies "While I was doing X...").
+- The second half is always a different subject to the first (e.g., "While I slept, my friend left").
+- 보통 짧은 시간 (Usually implies a shorter duration compared to -동안).
 
 **Related Patterns:**
+[[V+는 동안]]
 
 ---
 
@@ -1150,19 +1199,22 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -는 척하다
 
-**Meaning**:
+**Meaning:**
+Pretend to, act as if
 
-**Grammar**:
+**Grammar:**
 <u>AVst</u>는 척하다
-<u>AVst</u>(은,ㄴ) 척하다
+<u>AVst</u>(은,ㄴ) 척하다 (Past/State)
 <u>DVst</u>(은,ㄴ) 척하다
 <u>N</u>인 척하다
 
-**Usage**:
+**Usage:**
+Used when acting or behaving as if something is true when it actually is not.
 
 **Notes:**
 
 **Related Patterns:**
+[[V+(는,은,ㄴ) 체하다]]
 
 ---
 
@@ -1174,19 +1226,21 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -거든
 
-**Meaning**:
+**Meaning:**
+If (conditional)
 
-**Grammar**:
-<u>Vst</u>거든 \_\_\_\_
+**Grammar:**
+<u>Vst</u>거든 \_\_\_\_ (Command/Suggestion)
 
-
-**Usage**:
+**Usage:**
+A conditional form used to state "If X happens..." followed by a request, command, suggestion, or promise.
 
 **Notes:**
 - The first half is an if/when clause.
-- The second half is a command or suggestion.
+- The second half is a command, suggestion, or promise. (Declarative sentences cannot follow).
 
 **Related Patterns:**
+[[V+(으)면]]
 
 ---
 
@@ -1198,18 +1252,22 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -고 해서
 
-**Meaning**:
+**Meaning:**
+Because... (and for other reasons)
 
-**Grammar**:
+**Grammar:**
 (<u>N</u>도) <u>Vst</u>고 해서 \_\_\_\_
 
-**Usage**:
+**Usage:**
+Used to state a primary reason for an action while implying there are other reasons that are not explicitly mentioned. "Partly because of A (and other things), I did B."
 
 **Notes:**
-- First half: 이유 많지만 제일 중요한 이유만 말하고 싶을 때. 이유 2개 이상 필요해.
+- First half: there are many reasons but you only want to state the most important one.
+- Requires existence of 2+ reasons contextually.
 - Don't use a command in the second half.
 
 **Related Patterns:**
+[[V+기도 하고]]
 
 ---
 
@@ -1221,18 +1279,22 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -지
 
-**Meaning**:
+**Meaning:**
+(You) should have... / Why didn't (you)...
 
-**Grammar**:
+**Grammar:**
 <u>AVst</u>지.
-<u>AVst</u>지 말지. (past action)
+<u>AVst</u>지 말지. (For negative action)
 
-**Usage**:
+**Usage:**
+Used to express regret or mild criticism that someone did not do something (or did something they shouldn't have). It is a short form of -지 그랬어요.
 
 **Notes:**
-- Different from <u>AVst</u>(어,아,여)야지.
+- Different from <u>AVst</u>(어,아,여)야지 (which means "must/will").
+- Equivalent to: "Why didn't you...?"
 
 **Related Patterns:**
+[[V+지 그랬어요]]
 
 ---
 
@@ -1244,16 +1306,19 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -을 텐데요
 
-**Meaning**:
+**Meaning:**
+I suppose/expect..., it is probably...
 
-**Grammar**:
+**Grammar:**
 <u>Vst</u>(을,ㄹ) 텐데요.
 
-**Usage**:
+**Usage:**
+Expresses the speaker's strong supposition or expectation about a future or current situation. Often acts as the background for a suggestion or expression of worry (when not at the end of a sentence: -을 텐데...).
 
 **Notes:**
 
 **Related Patterns:**
+[[V+(을,ㄹ) 것 같다]]
 
 ---
 
@@ -1265,17 +1330,20 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -는다고 해서
 
-**Meaning**:
+**Meaning:**
+Just because... (doesn't mean)
 
-**Grammar**:
+**Grammar:**
 <u>AVst</u>(는,ㄴ)다고 해서 \_\_\_\_
 <u>DVst</u>다고 해서 \_\_\_\_
 <u>Vst</u>(었,았,였)다고 해서 \_\_\_\_
 <u>N</u>(이)라고 해서 \_\_\_\_
 
-**Usage**:
+**Usage:**
+Used to indicate that a certain fact or hearsay does not necessarily lead to a specific result. Often followed by a negative or contrasting clause (e.g., "Just because it's expensive doesn't mean it's good").
 
 **Notes:**
+- Commonly followed by patterns like -는 것은 아니다 (it is not the case that...).
 
 **Related Patterns:**
 
@@ -1289,16 +1357,20 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -었다가
 
-**Meaning**:
+**Meaning:**
+Did... but then (change of state/contrast)
 
-**Grammar**:
+**Grammar:**
 <u>AVst</u>(었,았,였)다가 \_\_\_\_
 
-**Usage**:
+**Usage:**
+Indicates that one action was completed, and then a contrary or related action took place, usually resulting in a return to the original state or a sudden change. (e.g., "I went to the store [and arrived/finished going] but came back").
 
 **Notes:**
+- Contrasts with basic -다가 (interruption of action) because the first action is completed here.
 
 **Related Patterns:**
+[[V+(었,았,였)는데]], [[V+다가]]
 
 ---
 
@@ -1310,15 +1382,18 @@ Used to remind someone of information that both speaker and listener already kno
 **Yonsei Signature Short:**
 -을 수도 있다
 
-**Meaning**:
+**Meaning:**
+It might, it's possible that
 
-**Grammar**:
+**Grammar:**
 <u>Vst</u>(을,ㄹ) 수도 있다
 <u>Vst</u>(었,았,였)을 수도 있다
 <u>N</u>일 수도 있다
 
-**Usage**:
+**Usage:**
+Expresses possibility. "It is possible that..." or "It could be that..." Used when the speaker acknowledges a potential outcome, even if unlikely.
 
 **Notes:**
 
 **Related Patterns:**
+[[V+(을,ㄹ)지도 모르다]]
