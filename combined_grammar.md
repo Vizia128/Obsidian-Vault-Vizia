@@ -1236,57 +1236,42 @@ Used to remind someone of information that both speaker and listener already kno
 
 ---
 
-## 
+## V+(을,ㄹ) 텐데(요)
 
 **Yonsei Signature:**
+-을/ㄹ 텐데요
 
 **Yonsei Signature Short:**
+-을 텐데요
 
 **Meaning**:
 
 **Grammar**:
+<u>Vst</u>(을,ㄹ) 텐데요.
 
 **Usage**:
 
 **Notes:**
 
 **Related Patterns:**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
-## 
+## V+(는,ㄴ,_)다고 해서
 
 **Yonsei Signature:**
+-는다고/ㄴ다고/다고 해서
 
 **Yonsei Signature Short:**
+-는다고 해서
 
 **Meaning**:
 
 **Grammar**:
+<u>AVst</u>(는,ㄴ)다고 해서 \_\_\_\_
+<u>DVst</u>다고 해서 \_\_\_\_
+<u>Vst</u>(었,았,였)다고 해서 \_\_\_\_
+<u>N</u>(이)라고 해서 \_\_\_\_
 
 **Usage**:
 
@@ -1294,9 +1279,46 @@ Used to remind someone of information that both speaker and listener already kno
 
 **Related Patterns:**
 
-<u>Vst</u>
-<u>AVst</u>
-<u>DVst</u>
-<u>N</u>
-(었,았,였)
-\_\_\_\_
+---
+
+## V+(었,았,였)다가
+
+**Yonsei Signature:**
+-었다가/았다가/였다가
+
+**Yonsei Signature Short:**
+-었다가
+
+**Meaning**:
+
+**Grammar**:
+<u>AVst</u>(었,았,였)다가 \_\_\_\_
+
+**Usage**:
+
+**Notes:**
+
+**Related Patterns:**
+
+---
+
+## V+(을,ㄹ) 수도 있다
+
+**Yonsei Signature:**
+-을/ㄹ 수도 있다
+
+**Yonsei Signature Short:**
+-을 수도 있다
+
+**Meaning**:
+
+**Grammar**:
+<u>Vst</u>(을,ㄹ) 수도 있다
+<u>Vst</u>(었,았,였)을 수도 있다
+<u>N</u>일 수도 있다
+
+**Usage**:
+
+**Notes:**
+
+**Related Patterns:**
