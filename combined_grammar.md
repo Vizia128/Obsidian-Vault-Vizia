@@ -870,3 +870,433 @@ Used to remind someone of information that both speaker and listener already kno
 **Notes:**
 
 **Related Patterns:**
+
+---
+
+## V+(는,ㄴ)다는 것이
+
+**Yonsei Signature:**
+-는다는/ㄴ다는 것이
+
+**Yonsei Signature Short:**
+-는다는 것이
+
+**Meaning**:
+
+**Grammar**:
+<u>AVst</u>(는,ㄴ)다는 것이 \_\_\_\_
+
+**Usage**:
+
+**Notes:**
+
+**Related Patterns:**
+
+---
+
+## V+고 말다
+
+**Yonsei Signature:**
+-고 말다
+
+**Yonsei Signature Short:**
+-고 말다
+
+**Meaning**:
+
+**Grammar**:
+<u>Vst</u>고 말(었,았,였)다
+
+**Usage**:
+
+**Notes:**
+
+**Related Patterns:**
+
+---
+
+## V+거든요
+
+**Yonsei Signature:**
+-거든요
+
+**Yonsei Signature Short:**
+-거든요
+
+**Meaning**:
+
+**Grammar**:
+
+**Usage**:
+
+**Notes:**
+
+**Related Patterns:**
+
+---
+
+## V+(을,ㄹ)까 봐
+
+**Yonsei Signature:**
+-을까/ㄹ까 봐
+
+**Yonsei Signature Short:**
+-을까 봐
+
+**Meaning**:
+
+**Grammar**:
+
+**Usage**:
+
+**Notes:**
+
+**Related Patterns:**
+
+---
+
+## V+(는,ㄴ,_)다고 하던데
+
+**Yonsei Signature:**
+-는다고/ㄴ다고/다고 하던데
+
+**Yonsei Signature Short:**
+-는다고 하던데
+
+**Meaning**:
+
+**Grammar**:
+<u>AVst</u>(는,ㄴ)다고 하던데 \_\_\_\_
+<u>DVst</u>다고 하던데 \_\_\_\_
+<u>N</u>(이)라고 하던데 \_\_\_\_
+
+**Usage**:
+
+**Notes:**
+
+**Related Patterns:**
+
+---
+
+## V+는 대로
+
+**Yonsei Signature:**
+-는대로
+
+**Yonsei Signature Short:**
+-는대로
+
+**Meaning**:
+
+**Grammar**:
+<u>AVst</u>는대로 \_\_\_\_
+
+**Usage**:
+
+**Notes:**
+
+**Related Patterns:**
+
+---
+
+## V+(을,ㄹ) 만하다
+
+**Yonsei Signature:**
+-을/ㄹ 만하다
+
+**Yonsei Signature Short:**
+-을 만하다
+
+**Meaning**:
+
+**Grammar**:
+<u>N</u>(은,는,이,가) <u>AVst</u>(을,ㄹ) 만하다
+
+**Usage**:
+- 초천
+- 그낭 그냥
+
+**Notes:**
+
+**Related Patterns:**
+
+---
+
+## V+(을,ㄹ) 뿐만 아니라
+
+**Yonsei Signature:**
+-을/ㄹ 뿐만 아니라
+
+**Yonsei Signature Short:**
+-을 뿐만 아니라
+
+**Meaning**:
+
+**Grammar**:
+<u>Vst</u>(을,ㄹ) 뿐만 아니라 <u>(N)</u>도 \_\_\_\_
+<u>Vst</u>(었,았,였)을 뿐만 아니라 <u>(N)</u>도 \_\_\_\_
+
+**Usage**:
+
+**Notes:**
+- If there is a noun, you must use (N)도.
+- The left and right of the phrase are 비슷한 사이즈/도가든 느낌.
+- Often used like this: <u>Vst</u>(었,았,였)을 뿐만 아니라 <u>(N)</u>도 <u>Vst</u>(어,아,여)서 \_\_\_\_.
+
+**Related Patterns:**
+
+---
+
+## V+(는,ㄴ,_)단 말이에요?
+
+**Yonsei Signature:**
+-는단/ㄴ단/단 말이에요?
+
+**Yonsei Signature Short:**
+-는단 말이에요?
+
+**Meaning**:
+
+**Grammar**:
+<u>AVst</u>(는,ㄴ)단 말이에요?
+<u>DVst</u>단 말이에요?
+<u>Vst</u>(었,았,였)단 말이에요?
+<u>N</u>(이)란 말이에요?
+
+**Usage**:
+
+**Notes:**
+
+**Related Patterns:**
+
+---
+
+## V+(어,아,여)다가
+
+**Yonsei Signature:**
+-어다가/아다가/여다가
+
+**Yonsei Signature Short:**
+-어다가
+
+**Meaning**:
+
+**Grammar**:
+<u>N</u>(을,를) <u>AVst1</u>(어,아,여)다가 <u>AV2</u>
+
+**Usage**:
+
+**Notes:**
+- <u>N</u>은 눈에 보이는 물곤만 써야 됀다.
+- `다가`에 `가다`랑 `오다`가 이미 있어서 <u>AVst</u>로 쓰지 말다.
+
+**Related Patterns:**
+
+---
+
+## V+곤 하다
+
+**Yonsei Signature:**
+-곤 하다
+
+**Yonsei Signature Short:**
+-곤 하다
+
+**Meaning**:
+
+**Grammar**:
+~에,~때 <u>AVst</u>곤 하다
+~에,~때 <u>AVst</u>곤 했다
+
+**Usage**:
+
+**Notes:**
+- 자주 하는 행동. `자주` 쓰지 마.
+
+**Related Patterns:**
+
+---
+
+## V+(는,은,ㄴ) 사이에
+
+**Yonsei Signature:**
+-는/은/ㄴ 사이에
+
+**Yonsei Signature Short:**
+-는 사이에
+
+**Meaning**:
+
+**Grammar**:
+<u>AVst</u>는 사이에 \_\_\_\_
+<u>AVst</u>(은,ㄴ) 사이에 \_\_\_\_
+
+**Usage**:
+
+**Notes:**
+- The first half is usually first person.
+- The second half is always a different subject to the first.
+- 보동 잛은 시간
+
+**Related Patterns:**
+
+---
+
+## V+(는,은,ㄴ) 척하다
+
+**Yonsei Signature:**
+-는/은/ㄴ 척하다
+
+**Yonsei Signature Short:**
+-는 척하다
+
+**Meaning**:
+
+**Grammar**:
+<u>AVst</u>는 척하다
+<u>AVst</u>(은,ㄴ) 척하다
+<u>DVst</u>(은,ㄴ) 척하다
+<u>N</u>인 척하다
+
+**Usage**:
+
+**Notes:**
+
+**Related Patterns:**
+
+---
+
+## V+거든
+
+**Yonsei Signature:**
+-거든
+
+**Yonsei Signature Short:**
+-거든
+
+**Meaning**:
+
+**Grammar**:
+<u>Vst</u>거든 \_\_\_\_
+
+
+**Usage**:
+
+**Notes:**
+- The first half is an if/when clause.
+- The second half is a command or suggestion.
+
+**Related Patterns:**
+
+---
+
+## V+고 해서
+
+**Yonsei Signature:**
+-고 해서
+
+**Yonsei Signature Short:**
+-고 해서
+
+**Meaning**:
+
+**Grammar**:
+(<u>N</u>도) <u>Vst</u>고 해서 \_\_\_\_
+
+**Usage**:
+
+**Notes:**
+- First half: 이유 많지만 제일 중요한 이유만 말하고 싶을 때. 이유 2개 이상 필요해.
+- Don't use a command in the second half.
+
+**Related Patterns:**
+
+---
+
+## V+지
+
+**Yonsei Signature:**
+-지
+
+**Yonsei Signature Short:**
+-지
+
+**Meaning**:
+
+**Grammar**:
+<u>AVst</u>지.
+<u>AVst</u>지 말지. (past action)
+
+**Usage**:
+
+**Notes:**
+- Different from <u>AVst</u>(어,아,여)야지.
+
+**Related Patterns:**
+
+---
+
+## 
+
+**Yonsei Signature:**
+
+**Yonsei Signature Short:**
+
+**Meaning**:
+
+**Grammar**:
+
+**Usage**:
+
+**Notes:**
+
+**Related Patterns:**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 
+
+**Yonsei Signature:**
+
+**Yonsei Signature Short:**
+
+**Meaning**:
+
+**Grammar**:
+
+**Usage**:
+
+**Notes:**
+
+**Related Patterns:**
+
+<u>Vst</u>
+<u>AVst</u>
+<u>DVst</u>
+<u>N</u>
+(었,았,였)
+\_\_\_\_
