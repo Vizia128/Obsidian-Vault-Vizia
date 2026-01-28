@@ -2,7 +2,7 @@
 
 ---
 
-## AV+게 하다
+## 1. AV+게 하다
 
 **Yonsei Signature:**
 -게 하다
@@ -24,7 +24,7 @@ Used to express causation - making, letting, or having someone do something. The
 
 ---
 
-## V+(ㄹ,을)지 V+(ㄹ,을)지
+## 2. V+(ㄹ,을)지 V+(ㄹ,을)지
 
 **Yonsei Signature:**
 -ㄹ지/을지 -ㄹ지/을지
@@ -48,7 +48,7 @@ Expresses indecision or uncertainty between two or more mutually exclusive optio
 
 ---
 
-## V+(기는,긴) 하다
+## 3. V+(기는,긴) 하다
 
 **Yonsei Signature:**
 -기는 하다
@@ -74,7 +74,7 @@ In the form 기는/긴 하다, the speaker acknowledges that something is true o
 
 ---
 
-## V+(나,은가,ㄴ가) 보다
+## 4. V+(나,은가,ㄴ가) 보다
 
 **Yonsei Signature:**
 -나/은가/ㄴ가 보다
@@ -102,7 +102,7 @@ Used to express conjecture or assumption based on indirect evidence or observati
 
 ---
 
-## V+(는,ㄴ,_)다고 생각하다
+## 5. V+(는,ㄴ,_)다고 생각하다
 
 **Yonsei Signature:**
 -는다고/ㄴ다고/다고생각하다
@@ -130,7 +130,7 @@ Used to express one's opinion, thought, or belief about something. Converts a st
 
 ---
 
-## V+(는,ㄴ,_)다면
+## 6. V+(는,ㄴ,_)다면
 
 **Yonsei Signature:**
 -는다면/ㄴ다면/다면
@@ -158,7 +158,7 @@ A conditional form that combines declarative ending -(는)다 with conditional -
 
 ---
 
-## V+(는,ㄴ,_)다면서(요)
+## 7. V+(는,ㄴ,_)다면서(요)
 
 **Yonsei Signature:**
 -는다면서요/ㄴ다면서요/다면서요
@@ -186,7 +186,7 @@ Used to confirm or verify information that the speaker has heard from someone el
 
 ---
 
-## V+(는,ㄴ,_)대요
+## 8. V+(는,ㄴ,_)대요
 
 **Yonsei Signature:**
 -는대요/ㄴ대요/대요
@@ -214,7 +214,7 @@ A contracted form of -(는)다고 해요, used to relay information heard from o
 
 ---
 
-## V+(는,은,ㄴ) 편이다
+## 9. V+(는,은,ㄴ) 편이다
 
 **Yonsei Signature:**
 -는/은/ㄴ 편이다
@@ -242,7 +242,7 @@ Used to express general tendencies or relative positioning on a spectrum. Soften
 
 ---
 
-## V+(는,은,ㄴ)데도
+## 10. V+(는,은,ㄴ)데도
 
 **Yonsei Signature:**
 -는데도/은데도/ㄴ데도
@@ -269,7 +269,7 @@ Expresses contrast or unexpectedness - despite the situation in the first clause
 
 ---
 
-## V+(어,아,여) 놓다
+## 11. V+(어,아,여) 놓다
 
 **Yonsei Signature:**
 -어/아/여 놓다
@@ -293,7 +293,7 @@ Emphasizes preparation, completion, or the resulting state being maintained. Imp
 
 ---
 
-## V+(어,아,여) 보이다
+## 12. V+(어,아,여) 보이다
 
 **Yonsei Signature:**
 -어/아/여 보이다
@@ -320,7 +320,7 @@ Expresses visual appearance or impression based on what the speaker sees. The ob
 
 ---
 
-## V+(어,아,여) 있다
+## 13. V+(어,아,여) 있다
 
 **Yonsei Signature:**
 -어/아/여 있다
@@ -348,7 +348,7 @@ Emphasizes the continuing state resulting from an action rather than the action 
 
 ---
 
-## V+(어,아,여)서 그런지
+## 14. V+(어,아,여)서 그런지
 
 **Yonsei Signature:**
 -어서/아서/여서 그런지
@@ -374,7 +374,7 @@ Used to suggest a possible reason or cause for something, with some uncertainty.
 
 ---
 
-## V+(어,아,여)야지(요)
+## 15. V+(어,아,여)야지(요)
 
 **Yonsei Signature:**
 -어야지요/아야지요/여야지요
@@ -401,7 +401,7 @@ More casual and conversational than -(어,아,여)야 하다/되다. Often expre
 
 ---
 
-## V+(었,았,였)더니
+## 16. V+(었,았,였)더니
 
 **Yonsei Signature:**
 -었더니/았더니/였더니
@@ -425,7 +425,7 @@ Indicates that after completing the action in the first clause, the speaker disc
 
 ---
 
-## V+(었,았,였)을 것이다
+## 17. V+(었,았,였)을 것이다
 
 **Yonsei Signature:**
 -었을/았을/였을 것이다
@@ -449,7 +449,7 @@ Used to make conjectures about past events or to express counterfactual situatio
 
 ---
 
-## V+(으)니까2
+## 18. V+(으)니까2
 
 **Yonsei Signature:**
 -으니까/니까2
@@ -473,7 +473,7 @@ used with an action verb to state that the fact contained in the second sentence
 
 ---
 
-## V+(으)려던 참이었다
+## 19. V+(으)려던 참이었다
 
 **Yonsei Signature:**
 -으려던/려던 참이었다
@@ -499,7 +499,7 @@ Expresses that you were on the verge of doing something (but haven't yet). Often
 
 ---
 
-## V+(으)려면2
+## 20. V+(으)려면2
 
 **Yonsei Signature:**
 -으려면/려면2
@@ -523,7 +523,7 @@ A specific usage of -(으)려면 that appears with time expressions to indicate 
 
 ---
 
-## V+(으)면서도
+## 21. V+(으)면서도
 
 **Yonsei Signature:**
 -으면서도/면서도
@@ -549,7 +549,7 @@ Expresses that despite the situation or action in the first clause (which might 
 
 ---
 
-## V+(을,ㄹ) 뻔하다
+## 22. V+(을,ㄹ) 뻔하다
 
 **Yonsei Signature:**
 -을/ㄹ 뻔하다
@@ -573,7 +573,7 @@ Expresses that something almost happened but didn't - typically used for negativ
 
 ---
 
-## V+(을,ㄹ) 뿐이다
+## 23. V+(을,ㄹ) 뿐이다
 
 **Yonsei Signature:**
 -을/ㄹ 뿐이다
@@ -599,7 +599,7 @@ Emphasizes limitation or exclusivity - "this and nothing more." Can express eith
 
 ---
 
-## V+(을,ㄹ)지도 모르다
+## 24. V+(을,ㄹ)지도 모르다
 
 **Yonsei Signature:**
 -을지도/ㄹ지도 모르다
@@ -625,7 +625,7 @@ Expresses possibility or uncertainty about future events or situations. Literall
 
 ---
 
-## V+(이)라든가
+## 25. V+(이)라든가
 
 **Yonsei Signature:**
 -이라든가/라든가
@@ -649,7 +649,7 @@ Used to list examples from a larger category, similar to "such as" or "like" in 
 
 ---
 
-## V+고 나서
+## 26. V+고 나서
 
 **Yonsei Signature:**
 -고 나서
@@ -673,7 +673,7 @@ Indicates that one action is completed before another action begins. Emphasizes 
 
 ---
 
-## V+고서
+## 27. V+고서
 
 **Yonsei Signature:**
 -고서
@@ -697,7 +697,7 @@ Indicates sequential actions where the first action precedes the second. More fo
 
 ---
 
-## V+기 위해서
+## 28. V+기 위해서
 
 **Yonsei Signature:**
 -기 위해서
@@ -722,7 +722,7 @@ Used when doing something to achieve a goal or for a specific purpose.
 
 ---
 
-## V+기가 쉽다
+## 29. V+기가 쉽다
 
 **Yonsei Signature:**
 -기가 쉽다
@@ -748,7 +748,7 @@ Expresses that something is easy to do or happens easily. Often used to describe
 
 ---
 
-## V+기는(요)
+## 30. V+기는(요)
 
 **Yonsei Signature:**
 -기는요
@@ -772,7 +772,7 @@ Expression is used to politely refute or disagree with the other person's statem
 
 ---
 
-## V+기만 하다
+## 31. V+기만 하다
 
 **Yonsei Signature:**
 -기만 하다
@@ -798,7 +798,7 @@ Emphasizes exclusivity - this action/state and nothing else. Often has a negativ
 
 ---
 
-## V+는 대신에
+## 32. V+는 대신에
 
 **Yonsei Signature:**
 -는 대신에
@@ -822,7 +822,7 @@ Indicates substitution or exchange - one action or situation replaces another. U
 
 ---
 
-## V+던데
+## 33. V+던데
 
 **Yonsei Signature:**
 -던데
@@ -848,10 +848,10 @@ Combines -던 (past observation/experience) with -는데 (background context) to
 
 ---
 
-## V+잖아(요)
+## 34. V+잖아(요)
 
 **Yonsei Signature:**
--잖아요
+-잖아/요
 
 **Yonsei Signature Short:**
 -잖아요
@@ -873,7 +873,7 @@ Used to remind someone of information that both speaker and listener already kno
 
 ---
 
-## V+(는,ㄴ)다는 것이
+## 35. V+(는,ㄴ)다는 것이
 
 **Yonsei Signature:**
 -는다는/ㄴ다는 것이
@@ -899,7 +899,7 @@ Used when the speaker's original intention or plan resulted in a different (ofte
 
 ---
 
-## V+고 말다
+## 36. V+고 말다
 
 **Yonsei Signature:**
 -고 말다
@@ -925,7 +925,7 @@ Expresses that an action reached an endpoint. It carries a nuance of either:
 
 ---
 
-## V+거든요
+## 37. V+거든요
 
 **Yonsei Signature:**
 -거든요
@@ -952,7 +952,7 @@ Used to provide a reason or background information that the listener likely does
 
 ---
 
-## V+(을,ㄹ)까 봐
+## 38. V+(을,ㄹ)까 봐
 
 **Yonsei Signature:**
 -을까/ㄹ까 봐
@@ -977,7 +977,7 @@ Expresses concern that the action in the first clause might happen, so the speak
 
 ---
 
-## V+(는,ㄴ,_)다고 하던데
+## 39. V+(는,ㄴ,_)다고 하던데
 
 **Yonsei Signature:**
 -는다고/ㄴ다고/다고 하던데
@@ -1003,7 +1003,7 @@ The speaker recalls something they heard from others to introduce a topic, ask a
 
 ---
 
-## V+는 대로
+## 40. V+는 대로
 
 **Yonsei Signature:**
 -는대로
@@ -1028,7 +1028,7 @@ Indicates that the second action occurs immediately upon the completion of the f
 
 ---
 
-## V+(을,ㄹ) 만하다
+## 41. V+(을,ㄹ) 만하다
 
 **Yonsei Signature:**
 -을/ㄹ 만하다
@@ -1055,7 +1055,7 @@ Worth doing, doable, understandable
 
 ---
 
-## V+(을,ㄹ) 뿐만 아니라
+## 42. V+(을,ㄹ) 뿐만 아니라
 
 **Yonsei Signature:**
 -을/ㄹ 뿐만 아니라
@@ -1083,7 +1083,7 @@ Used to add information. The first clause and second clause should be of the sam
 
 ---
 
-## V+(는,ㄴ,_)단 말이에요?
+## 43. V+(는,ㄴ,_)단 말이에요?
 
 **Yonsei Signature:**
 -는단/ㄴ단/단 말이에요?
@@ -1110,7 +1110,7 @@ Used to reconfirm what the other person said, often expressing surprise or disbe
 
 ---
 
-## V+(어,아,여)다가
+## 44. V+(어,아,여)다가
 
 **Yonsei Signature:**
 -어다가/아다가/여다가
@@ -1136,7 +1136,7 @@ Indicates an action is performed on an object, and then that object is moved or 
 
 ---
 
-## V+곤 하다
+## 45. V+곤 하다
 
 **Yonsei Signature:**
 -곤 하다
@@ -1163,7 +1163,7 @@ Expresses a habit or something that is done repeatedly.
 
 ---
 
-## V+(는,은,ㄴ) 사이에
+## 46. V+(는,은,ㄴ) 사이에
 
 **Yonsei Signature:**
 -는/은/ㄴ 사이에
@@ -1191,7 +1191,7 @@ Indicates that a second action happens within the duration of the first action o
 
 ---
 
-## V+(는,은,ㄴ) 척하다
+## 47. V+(는,은,ㄴ) 척하다
 
 **Yonsei Signature:**
 -는/은/ㄴ 척하다
@@ -1218,7 +1218,7 @@ Used when acting or behaving as if something is true when it actually is not.
 
 ---
 
-## V+거든
+## 48. V+거든
 
 **Yonsei Signature:**
 -거든
@@ -1244,7 +1244,7 @@ A conditional form used to state "If X happens..." followed by a request, comman
 
 ---
 
-## V+고 해서
+## 49. V+고 해서
 
 **Yonsei Signature:**
 -고 해서
@@ -1271,7 +1271,7 @@ Used to state a primary reason for an action while implying there are other reas
 
 ---
 
-## V+지
+## 50. V+지
 
 **Yonsei Signature:**
 -지
@@ -1298,7 +1298,7 @@ Used to express regret or mild criticism that someone did not do something (or d
 
 ---
 
-## V+(을,ㄹ) 텐데(요)
+## 51. V+(을,ㄹ) 텐데(요)
 
 **Yonsei Signature:**
 -을/ㄹ 텐데요
@@ -1322,7 +1322,7 @@ Expresses the speaker's strong supposition or expectation about a future or curr
 
 ---
 
-## V+(는,ㄴ,_)다고 해서
+## 52. V+(는,ㄴ,_)다고 해서
 
 **Yonsei Signature:**
 -는다고/ㄴ다고/다고 해서
@@ -1349,7 +1349,7 @@ Used to indicate that a certain fact or hearsay does not necessarily lead to a s
 
 ---
 
-## V+(었,았,였)다가
+## 53. V+(었,았,였)다가
 
 **Yonsei Signature:**
 -었다가/았다가/였다가
@@ -1374,7 +1374,7 @@ Indicates that one action was completed, and then a contrary or related action t
 
 ---
 
-## V+(을,ㄹ) 수도 있다
+## 54. V+(을,ㄹ) 수도 있다
 
 **Yonsei Signature:**
 -을/ㄹ 수도 있다

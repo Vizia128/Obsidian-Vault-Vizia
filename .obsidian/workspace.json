@@ -419,6 +419,7 @@
   },
   "active": "f1e483a016462ba6",
   "lastOpenFiles": [
+    "grammer-3.csv",
     "combined_grammar.md",
     "문법/V+고서.md",
     "문법/V+(을,ㄹ) 뻔하다.md",
@@ -447,7 +448,6 @@
     "문법/V+(으)려면2.md",
     "문법/V+(는,은,ㄴ) 편이다.md",
     "문법/V+(을,ㄹ)지도 모르다.md",
-    "문법/V+기가 쉽다.md",
     "uv.lock",
     "pyproject.toml",
     "main.py",
