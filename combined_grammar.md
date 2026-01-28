@@ -24,98 +24,13 @@ Used to express causation - making, letting, or having someone do something. The
 
 ---
 
-## N+(은,는)
-
-**Yonsei Signature:**
--은/는
-
-**Meaning**:
-Topic marker
-
-**Grammar**:
-<u>N</u>(은,는)
-
-**Usage**:
-Mark the topic of the sentence. About, regarding, as for
-
-**Notes:**
-
-**Related Patterns:**
-
-
-
----
-
-## N+만
-
-**Yonsei Signature:**
--만
-
-**Meaning**:
-Limitation, only, but only
-
-**Grammar**:
-<u>N</u>만
-
-**Usage**:
-A particle that expresses the sense of limitation, emphasis and degree of comparison.
-
-**Notes:**
-
-**Related Patterns:**
-[[N+뿐]], [[N+밖에]]
-
-
----
-
-## N+밖에
-
-**Yonsei Signature:**
--밖에
-
-**Meaning**:
-Exclusion, except for that, other than that
-
-**Grammar**:
-<u>N</u>밖에
-
-**Usage**:
-Express the only thing or option available, no other possibilities available.
-
-**Notes:**
-The following clause is always negative
-
-**Related Patterns:**
-[[N+만]], [[N+뿐]]
-
----
-
-## N+뿐
-
-**Yonsei Signature:**
--뿐
-
-**Meaning**:
-Nothing more, there is nothing else, it is the only one.
-
-**Grammar**:
-<u>N</u>뿐
-
-**Usage**:
-Used when there is nothing more than the content of the preceding statement or when it is the only one.
-
-**Notes:**
-
-**Related Patterns:**
-[[N+만]], [[N+밖에]]
-
-
----
-
 ## V+(ㄹ,을)지 V+(ㄹ,을)지
 
 **Yonsei Signature:**
 -ㄹ지/을지 -ㄹ지/을지
+
+**Yonsei Signature Short:**
+-을지 -을지
 
 **Meaning**:
 whether to... or to... (deliberation between options)
@@ -136,6 +51,9 @@ Expresses indecision or uncertainty between two or more mutually exclusive optio
 ## V+(기는,긴) 하다
 
 **Yonsei Signature:**
+-기는 하다
+
+**Yonsei Signature Short:**
 -기는 하다
 
 **Meaning**:
@@ -160,6 +78,9 @@ In the form 기는/긴 하다, the speaker acknowledges that something is true o
 
 **Yonsei Signature:**
 -나/은가/ㄴ가 보다
+
+**Yonsei Signature Short:**
+-나 보다
 
 **Meaning**:
 It seems like, it appears that (conjecture based on observation)
@@ -186,6 +107,9 @@ Used to express conjecture or assumption based on indirect evidence or observati
 **Yonsei Signature:**
 -는다고/ㄴ다고/다고생각하다
 
+**Yonsei Signature Short:**
+-는다고 생각하다
+
 **Meaning**:
 I think that..., I believe that...
 
@@ -210,6 +134,9 @@ Used to express one's opinion, thought, or belief about something. Converts a st
 
 **Yonsei Signature:**
 -는다면/ㄴ다면/다면
+
+**Yonsei Signature Short:**
+-는다면
 
 **Meaning**:
 If (it is the case that)..., supposing that...
@@ -236,6 +163,9 @@ A conditional form that combines declarative ending -(는)다 with conditional -
 **Yonsei Signature:**
 -는다면서요/ㄴ다면서요/다면서요
 
+**Yonsei Signature Short:**
+-는다면서요
+
 **Meaning**:
 I heard that..., they say that... (seeking confirmation)
 
@@ -260,6 +190,9 @@ Used to confirm or verify information that the speaker has heard from someone el
 
 **Yonsei Signature:**
 -는대요/ㄴ대요/대요
+
+**Yonsei Signature Short:**
+-는대요
 
 **Meaning**:
 They say..., I heard that... (casual reported speech)
@@ -286,6 +219,9 @@ A contracted form of -(는)다고 해요, used to relay information heard from o
 **Yonsei Signature:**
 -는/은/ㄴ 편이다
 
+**Yonsei Signature Short:**
+-는 편이다
+
 **Meaning**:
 tend to, on the {adjective} side, rather, fairly
 
@@ -304,35 +240,15 @@ Used to express general tendencies or relative positioning on a spectrum. Soften
 **Related Patterns:**
 [[V+(는,은,ㄴ)]], [[V+(은,ㄴ)]]
 
-
----
-
-## V+(는,은,ㄴ)
-
-**Yonsei Signature:**
--는/은/ㄴ
-
-**Meaning**:
-Noun modifiers, present
-
-**Grammar**:
-<u>AVst</u>는 \_\_\_\_
-<u>DVst</u>(은,ㄴ) \_\_\_\_
-
-**Usage**:
-Enables it to function as a modifying clause for the substantive following it.
-
-**Notes:**
-
-**Related Patterns:**
-[[V+(은,ㄴ)]], [[V+(을,ㄹ)]]
-
 ---
 
 ## V+(는,은,ㄴ)데도
 
 **Yonsei Signature:**
 -는데도/은데도/ㄴ데도
+
+**Yonsei Signature Short:**
+-는데도
 
 **Meaning**:
 Even though, despite the fact that
@@ -358,6 +274,9 @@ Expresses contrast or unexpectedness - despite the situation in the first clause
 **Yonsei Signature:**
 -어/아/여 놓다
 
+**Yonsei Signature Short:**
+-어 놓다
+
 **Meaning**:
 do and leave (in that state), do in advance (for later use)
 
@@ -378,6 +297,9 @@ Emphasizes preparation, completion, or the resulting state being maintained. Imp
 
 **Yonsei Signature:**
 -어/아/여 보이다
+
+**Yonsei Signature Short:**
+-어 보이다
 
 **Meaning**:
 looks like, appears to be
@@ -402,6 +324,9 @@ Expresses visual appearance or impression based on what the speaker sees. The ob
 
 **Yonsei Signature:**
 -어/아/여 있다
+
+**Yonsei Signature Short:**
+-어 있다
 
 **Meaning**:
 Continuing or resultant state
@@ -428,6 +353,9 @@ Emphasizes the continuing state resulting from an action rather than the action 
 **Yonsei Signature:**
 -어서/아서/여서 그런지
 
+**Yonsei Signature Short:**
+-어서 그런지
+
 **Meaning**:
 Perhaps because..., maybe it's because...
 
@@ -451,6 +379,9 @@ Used to suggest a possible reason or cause for something, with some uncertainty.
 **Yonsei Signature:**
 -어야지요/아야지요/여야지요
 
+**Yonsei Signature Short:**
+-어야지요
+
 **Meaning**:
 should, ought to (casual agreement/acknowledgment)
 
@@ -470,31 +401,13 @@ More casual and conversational than -(어,아,여)야 하다/되다. Often expre
 
 ---
 
-## V+(었,았,였)다
-
-**Yonsei Signature:**
--었어요/았어요/였어요
-
-**Meaning**:
-Past tense
-
-**Grammar**:
-<u>Vst</u>(었,았,였)어(요)
-
-**Usage**:
-Indicate that an event happened in the past.
-
-**Notes:**
-
-**Related Patterns:**
-[[V+(어,아,여)]]
-
----
-
 ## V+(었,았,였)더니
 
 **Yonsei Signature:**
 -었더니/았더니/였더니
+
+**Yonsei Signature Short:**
+-었더니
 
 **Meaning**:
 After doing..., when I/someone did... (then discovered)
@@ -517,6 +430,9 @@ Indicates that after completing the action in the first clause, the speaker disc
 **Yonsei Signature:**
 -었을/았을/였을 것이다
 
+**Yonsei Signature Short:**
+-었을 것이다
+
 **Meaning**:
 Would have, must have (past conjecture/counterfactual)
 
@@ -536,7 +452,10 @@ Used to make conjectures about past events or to express counterfactual situatio
 ## V+(으)니까2
 
 **Yonsei Signature:**
--으니까/니까
+-으니까/니까2
+
+**Yonsei Signature Short:**
+-으니까2
 
 **Meaning**:
 Upon doing/when I did (then discovered/realized)
@@ -557,7 +476,10 @@ used with an action verb to state that the fact contained in the second sentence
 ## V+(으)려던 참이었다
 
 **Yonsei Signature:**
-으려던/려던 참이었다
+-으려던/려던 참이었다
+
+**Yonsei Signature Short:**
+-으려던 참이었다
 
 **Meaning**:
 was just about to (do something)
@@ -582,6 +504,9 @@ Expresses that you were on the verge of doing something (but haven't yet). Often
 **Yonsei Signature:**
 -으려면/려면2
 
+**Yonsei Signature Short:**
+-으려면2
+
 **Meaning**:
 In order to, if you want to (with time expressions)
 
@@ -603,6 +528,9 @@ A specific usage of -(으)려면 that appears with time expressions to indicate 
 **Yonsei Signature:**
 -으면서도/면서도
 
+**Yonsei Signature Short:**
+-으면서도
+
 **Meaning**:
 While/even though, despite doing (simultaneous contrast)
 
@@ -621,31 +549,13 @@ Expresses that despite the situation or action in the first clause (which might 
 
 ---
 
-## V+(은,ㄴ)
-
-**Yonsei Signature:**
--은/ㄴ
-
-**Meaning**:
-Noun modifiers, past
-
-**Grammar**:
-<u>Vst</u>(은,ㄴ) \_\_\_\_
-
-**Usage**:
-Enables it to function as a modifying clause for the substantive following it.
-
-**Notes:**
-
-**Related Patterns:**
-[[V+(을,ㄹ)]], [[V+(는,은,ㄴ)]]
-
----
-
 ## V+(을,ㄹ) 뻔하다
 
 **Yonsei Signature:**
 -을/ㄹ 뻔하다
+
+**Yonsei Signature Short:**
+-을 뻔하다
 
 **Meaning**:
 Almost, nearly (did something undesirable)
@@ -668,6 +578,9 @@ Expresses that something almost happened but didn't - typically used for negativ
 **Yonsei Signature:**
 -을/ㄹ 뿐이다
 
+**Yonsei Signature Short:**
+-을 뿐이다
+
 **Meaning**:
 Only, just, nothing but
 
@@ -686,32 +599,13 @@ Emphasizes limitation or exclusivity - "this and nothing more." Can express eith
 
 ---
 
-## V+(을,ㄹ)
-
-**Yonsei Signature:**
--을/ㄹ
-
-**Meaning**:
-Noun modifiers, future
-
-**Grammar**:
-<u>Vst</u>(을,ㄹ) \_\_\_\_
-<u>N</u>일 \_\_\_\_
-
-**Usage**:
-Enables it to function as a modifying clause for the substantive following it.
-
-**Notes:**
-
-**Related Patterns:**
-[[V+(은,ㄴ)]], [[V+(는,은,ㄴ)]]
-
----
-
 ## V+(을,ㄹ)지도 모르다
 
 **Yonsei Signature:**
 -을지도/ㄹ지도 모르다
+
+**Yonsei Signature Short:**
+-을지도 모르다
 
 **Meaning**:
 Might, may, could possibly (uncertainty)
@@ -736,6 +630,9 @@ Expresses possibility or uncertainty about future events or situations. Literall
 **Yonsei Signature:**
 -이라든가/라든가
 
+**Yonsei Signature Short:**
+-이라든가
+
 **Meaning**:
 Such as, like, or (listing examples)
 
@@ -755,6 +652,9 @@ Used to list examples from a larger category, similar to "such as" or "like" in 
 ## V+고 나서
 
 **Yonsei Signature:**
+-고 나서
+
+**Yonsei Signature Short:**
 -고 나서
 
 **Meaning**:
@@ -778,6 +678,9 @@ Indicates that one action is completed before another action begins. Emphasizes 
 **Yonsei Signature:**
 -고서
 
+**Yonsei Signature Short:**
+-고서
+
 **Meaning**:
 After doing, having done (formal sequence)
 
@@ -799,6 +702,9 @@ Indicates sequential actions where the first action precedes the second. More fo
 **Yonsei Signature:**
 -기 위해서
 
+**Yonsei Signature Short:**
+-기 위해서
+
 **Meaning**:
 For the purpose of, for the sake of, in order to
 
@@ -814,35 +720,14 @@ Used when doing something to achieve a goal or for a specific purpose.
 **Related Patterns:**
 [[V+기]], [[N+(를,을)]]
 
-
----
-
-## V+기
-
-**Yonsei Signature:**
--기
-
-**Meaning**:
-Verb to noun
-
-**Grammar**:
-<u>Vst</u>기
-<u>Vst</u>(었,았,였)기
-
-**Usage**:
-Convert the preceding word as a noun.
-
-**Notes:**
-
-**Related Patterns:**
-[[V+(었,았,였)다]]
-
-
 ---
 
 ## V+기가 쉽다
 
 **Yonsei Signature:**
+-기가 쉽다
+
+**Yonsei Signature Short:**
 -기가 쉽다
 
 **Meaning**:
@@ -868,6 +753,9 @@ Expresses that something is easy to do or happens easily. Often used to describe
 **Yonsei Signature:**
 -기는요
 
+**Yonsei Signature Short:**
+-기는요
+
 **Meaning**:
 Gentle refutation
 
@@ -887,6 +775,9 @@ Expression is used to politely refute or disagree with the other person's statem
 ## V+기만 하다
 
 **Yonsei Signature:**
+-기만 하다
+
+**Yonsei Signature Short:**
 -기만 하다
 
 **Meaning**:
@@ -912,6 +803,9 @@ Emphasizes exclusivity - this action/state and nothing else. Often has a negativ
 **Yonsei Signature:**
 -는 대신에
 
+**Yonsei Signature Short:**
+-는 대신에
+
 **Meaning**:
 Instead of, in place of, in exchange for
 
@@ -931,6 +825,9 @@ Indicates substitution or exchange - one action or situation replaces another. U
 ## V+던데
 
 **Yonsei Signature:**
+-던데
+
+**Yonsei Signature Short:**
 -던데
 
 **Meaning**:
@@ -954,6 +851,9 @@ Combines -던 (past observation/experience) with -는데 (background context) to
 ## V+잖아(요)
 
 **Yonsei Signature:**
+-잖아요
+
+**Yonsei Signature Short:**
 -잖아요
 
 **Meaning**:
